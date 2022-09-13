@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Douglas
 
 - 🔭 Atualmente trabalho como Analista de Operações Sênior
-- 🌱 Estudante de desenvolvimento web
-- 🧩 SCSS | Javascript | Angular | React | Node | NextJs
+- 🌱 Amante de programação
+- 🧩 SCSS | Javascript | Angular | Node | C# | .Net Core
 - 🎮 Fifa é melhor que PES
 
 <div align="center">
@@ -15,7 +15,6 @@
   <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Doug-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Doug-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Doug-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -39,7 +38,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalho como Analista de Operações Sênior
-- 🌱 Estudando Front End
+- 🌱 Fullstack
 - 📫 Contate-me no e-mail: basilio.douglas@yahoo.com.br
 
 -->
