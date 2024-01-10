@@ -1,9 +1,9 @@
-## Olá! Eu sou o Douglas
+## Hi! I'm Douglas.
 
-- 🔭 Atualmente trabalho como Analista de Operações Sênior
-- 🌱 Amante de programação
+- 🔭 I work as a Software Engineer
+- 🌱 I love programming
 - 🧩 SCSS | Javascript | Angular | Node | C# | .Net Core
-- 🎮 Fifa é melhor que PES
+- 🎮 Fifa is better than E-football
 
 <div align="center">
   <a href="https://douglasbasilio.github.io">
@@ -12,6 +12,8 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Doug-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Doug-DOTNETCORE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
