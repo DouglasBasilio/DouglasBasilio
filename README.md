@@ -2,8 +2,7 @@
 
 - 🔭 I work as a Software Engineer
 - 🌱 I love programming
-- 🧩 SCSS | Javascript | Angular | Node | C# | .Net Core
-- 🎮 Fifa is better than E-football
+- 🧩 C# | .Net Core | SQL | Dapper | Entity Framework | Grafana | Swagger | CI/CD
 
 <div align="center">
   <a href="https://douglasbasilio.github.io">
